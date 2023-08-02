@@ -1,0 +1,4 @@
+com\lamukhin\SpringDemoBot\config\BotInitializer.class
+com\lamukhin\SpringDemoBot\SpringDemoBotApplication.class
+com\lamukhin\SpringDemoBot\config\BotConfig.class
+com\lamukhin\SpringDemoBot\service\TelegramBot.class
